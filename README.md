@@ -6,5 +6,5 @@ Assignment Based Finals for WQD7005 Data Mining University of Malaya
 
 
 ### Part 1
-* Folder containing supporting documents: https://github.com/EnJunChoong/WQD7005_Finals/tree/master/FinalExam_Part1
-* Youtubelink: https://youtu.be/jWT-mc0zF0g
+* __Supporting Documents__: https://github.com/EnJunChoong/WQD7005_Finals/tree/master/FinalExam_Part1
+* __Youtubelink__: https://youtu.be/jWT-mc0zF0g
